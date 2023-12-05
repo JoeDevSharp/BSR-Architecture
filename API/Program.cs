@@ -1,5 +1,5 @@
 
-namespace WebApplication
+namespace API
 {
     public class Program
     {
